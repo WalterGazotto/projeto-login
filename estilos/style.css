@@ -71,6 +71,10 @@ form > div.campo {
     margin: 5px 0px;
 }
 
+div.campo > span {
+    color: white;
+}
+
 form label {
     display: none;
 }
